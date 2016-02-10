@@ -1,10 +1,10 @@
 {
   "name": "metheora-recover-password",
-  "version": "1.0.7",
+  "version": "0.0.1",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Victor Hugo Marques <victor@metheora.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "An element to create a recover password form.",
   "keywords": [
     "web-component",
     "polymer",
@@ -12,7 +12,7 @@
   ],
   "main": "metheora-recover-password.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "homepage": "https://github.com/metheora/metheora-recover-password /",
   "ignore": [
     "/.*",
     "/test/"
