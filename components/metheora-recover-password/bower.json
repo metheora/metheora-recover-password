@@ -1,0 +1,32 @@
+{
+  "name": "metheora-recover-password",
+  "version": "1.0.0",
+  "authors": [
+    "Victor Hugo Marques <victor@metheora.com>"
+  ],
+  "description": "An element to create a recover password form.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "metheora-recover-password.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/metheora/metheora-recover-password /",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "paper-progress": "PolymerElements/paper-progress#^1.0.8",
+    "paper-card": "PolymerElements/paper-card#^1.1.0",
+    "paper-input": "PolymerElements/paper-input#^1.1.5",
+    "paper-button": "PolymerElements/paper-button#^1.0.11",
+    "paper-toast": "PolymerElements/paper-toast#^1.1.3",
+    "iron-form": "PolymerElements/iron-form#^1.0.13"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  }
+}
